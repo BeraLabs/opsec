@@ -4,6 +4,7 @@
 - Use a dedicated device per task e.g. linux notebook for pushing commits, another one for signing multisig txs, another one to ssh into validator (stay away from Windows)<p></p>
 - Monitor devices, set up alerts for odd behavior
 - Airgap critical devices whenever not in use
+- Keep software updated at all times
 
 <h1>Two Factor Authentication</h1>
 - SMS is the worst, Google Auth (without backup) is slightly better, Yubikey is the best<p></p>
