@@ -34,23 +34,23 @@
 <h1>DNS</h1>
 If you do decent volume, chances are 99% ur DNS will be exploited. These are either insider jobs and/or social engineering scams:
 An attacker will convince ur DNS host to reroute ur domain to a fake frontend that connects to a drainer. No 2fa/password complexity will save u from this<p></p>
-Prepare a document:
-    - Where are DNS nameservers hosted?
-    - Who is the admin of the account?
-    - How do I reach support?
-Drill your team in the process, because it is very likely to happen
+Prepare a document:<p></p>
+    - Where are DNS nameservers hosted?<p></p>
+    - Who is the admin of the account?<p></p>
+    - How do I reach support?<p></p>
+Drill your team in the process, because it is very likely to happen<p></p>
 
 DNS fallbacks:
-    - Set up a decentralized frontend on your favorite decentralized storage host. It's slow, but it can be utilized during a takeover.
-    - Have comms ready to go out to not interact with your dapp
+    - Set up a decentralized frontend on your favorite decentralized storage host. It's slow, but it can be utilized during a takeover.<p>
+    - Have comms ready to go out to not interact with your dapp<p>
 
 <h1>Twitter</h1>
-    - Similar to DNS, it is likely your Twitter account will be compromised with drainer links shared due to insider jobs.
-Prepare a document:
-    - Who has access to Twitter account?
-    - How do I get in touch with Twitter support?
-    - Do you know anyone at Twitter support?
-Drill your team in the process, because it is very likely to happen
+    - Similar to DNS, it is likely your Twitter account will be compromised with drainer links shared due to insider jobs.<p></p>
+Prepare a document:<p></p>
+    - Who has access to Twitter account?<p></p>
+    - How do I get in touch with Twitter support?<p></p>
+    - Do you know anyone at Twitter support?<p></p>
+Drill your team in the process, because it is very likely to happen<p></p>
 
 <h1>Smart Contract Exploit</h1>
     - Get in touch with the audit firm that audited your contracts
