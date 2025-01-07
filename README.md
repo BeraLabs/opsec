@@ -32,8 +32,8 @@
     - On each device used for work, store one hot wallet with ~200$ of ETH, the seed phrase locally and in your personal cloud. Set up Sentry alert for when funds move. Funds move = Malware, wipe everything at once
 
 <h1>DNS</h1>
-    - If you do decent volume, chances are 99% ur DNS will be exploited. These are either insider jobs and/or social engineering scams:
-An attacker will convince ur DNS host to reroute ur domain to a fake frontend that connects to a drainer. No 2fa/password complexity will save u from this
+If you do decent volume, chances are 99% ur DNS will be exploited. These are either insider jobs and/or social engineering scams:
+An attacker will convince ur DNS host to reroute ur domain to a fake frontend that connects to a drainer. No 2fa/password complexity will save u from this<p></p>
 Prepare a document:
     - Where are DNS nameservers hosted?
     - Who is the admin of the account?
