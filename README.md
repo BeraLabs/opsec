@@ -43,6 +43,7 @@ Drill your team in the process, because it is very likely to happen<p></p>
 DNS fallbacks:
     - Set up a decentralized frontend on your favorite decentralized storage host. It's slow, but it can be utilized during a takeover.<p>
     - Have comms ready to go out to not interact with your dapp<p>
+    - Set up a fallback decentralized frontend on IPFS (slow af but can be used during attack)
 
 <h1>Twitter</h1>
     - Similar to DNS, it is likely your Twitter account will be compromised with drainer links shared due to insider jobs.<p></p>
@@ -55,7 +56,10 @@ Drill your team in the process, because it is very likely to happen<p></p>
 <h1>Smart Contract Exploit</h1>
     - Get in touch with the audit firm that audited your contracts
     - Reach out to Seal911 https://github.com/security-alliance/seal-911#members
-    - Have comms ready to go out to not interact with your dapp
+    - Have comms ready to go out to not interact with your dapp<p></p>
+
+<h1>Email</h1>
+    - Set up DMARC/DKIM so your Email domain cannot be phished
 
 
 
