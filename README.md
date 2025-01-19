@@ -1,5 +1,8 @@
 # Opsec guidelines for protocols building in and around Berachain
 
+![image](https://github.com/user-attachments/assets/41477248-818c-435a-8210-f64eda2bfa83)
+
+
 <h1>Devices</h1>
 - Use a dedicated device per task e.g. linux notebook for pushing commits, another one for signing multisig txs, another one to ssh into validator (stay away from Windows)<p></p>
 - Monitor devices, set up alerts for odd behavior<p></p>
